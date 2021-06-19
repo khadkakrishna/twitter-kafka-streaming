@@ -1,11 +1,9 @@
 # twitter-kafka-streaming
 Streaming data from twitter with apache kafka
 
-## Getting started / dependencies:
+## installing dependencies:
 ```
-pip install kafka-python
-pip install python-twitter
-pip install tweepy
+python3 -m pip install -r requirements.txt
 ```
 
 ## Setting up kafka
