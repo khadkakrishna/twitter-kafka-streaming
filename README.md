@@ -1,5 +1,7 @@
 # twitter-kafka-streaming
 Streaming data from twitter with apache kafka
+<img src="assets/logos.jpeg" alt="twitter-kafka-python logos" width="100%"/>
+
 
 ## installing dependencies:
 ```
